@@ -1,5 +1,7 @@
-### Hi there 👋
-
+### Matheus Canhizares
+[![Linkedin Badge](https://img.shields.io/badge/-matheuscanhizares-0077B5?style=flat-square&logo=linkedin&link=https://www.linkedin.com/in/matheuscanhizares)](https://www.linkedin.com/in/matheuscanhizares)
+[![Email](https://img.shields.io/badge/-matheusvcanhizares@gmail.com-D44638?style=flat-square&logo=gmail&logoColor=white&link=mailto:matheusvcanhizares@gmail.com)](mailto:matheusvcanhizares@gmail.com)
+[![Twitter](https://img.shields.io/badge/-mcanhizares-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/mcanhizares)](https://twitter.com/mcanhizares)
 <!--
 **canhizares/canhizares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
